@@ -1,9 +1,5 @@
-# Application_Submission_Form_Backend
-Application Submission Form Backend is a Node.js Express server used for storing and retrieving form submissions for the Application Submission Form project.
-
-- **View Submissions**: Navigate through submitted forms.
-- **Create New Submissions**: Fill out and submit a new form with a stopwatch timer.
-- **Keyboard Shortcuts**: Use keyboard shortcuts to toggle the stopwatch and submit the form.
+# Application Submission Form
+Backend Server is a Node.js Express server used for storing and retrieving form submissions for the Application Submission Form project.
 
 ## Prerequisites
 - Express Server
