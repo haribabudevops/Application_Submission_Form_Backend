@@ -45,9 +45,11 @@ Application Submission Form Backend is a Node.js Express server used for storing
 ## Development
 ### Compiling TypeScript
 To compile TypeScript files to JavaScript, run:
-    ```sh
-    tsc service.ts
-    ```
+    
+```sh
+    tsc server.ts
+```
+    
 This will compile the server.ts file into a dist directory as server.js.
 
 ## License
